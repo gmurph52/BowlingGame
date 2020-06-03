@@ -1,0 +1,13 @@
+C:\dev\training\ScoringBowling\bin\Debug\netcoreapp3.1\ScoringBowling.exe
+C:\dev\training\ScoringBowling\bin\Debug\netcoreapp3.1\ScoringBowling.deps.json
+C:\dev\training\ScoringBowling\bin\Debug\netcoreapp3.1\ScoringBowling.runtimeconfig.json
+C:\dev\training\ScoringBowling\bin\Debug\netcoreapp3.1\ScoringBowling.runtimeconfig.dev.json
+C:\dev\training\ScoringBowling\bin\Debug\netcoreapp3.1\ScoringBowling.dll
+C:\dev\training\ScoringBowling\bin\Debug\netcoreapp3.1\ScoringBowling.pdb
+C:\dev\training\ScoringBowling\obj\Debug\netcoreapp3.1\ScoringBowling.csprojAssemblyReference.cache
+C:\dev\training\ScoringBowling\obj\Debug\netcoreapp3.1\ScoringBowling.csproj.CoreCompileInputs.cache
+C:\dev\training\ScoringBowling\obj\Debug\netcoreapp3.1\ScoringBowling.AssemblyInfoInputs.cache
+C:\dev\training\ScoringBowling\obj\Debug\netcoreapp3.1\ScoringBowling.AssemblyInfo.cs
+C:\dev\training\ScoringBowling\obj\Debug\netcoreapp3.1\ScoringBowling.dll
+C:\dev\training\ScoringBowling\obj\Debug\netcoreapp3.1\ScoringBowling.pdb
+C:\dev\training\ScoringBowling\obj\Debug\netcoreapp3.1\ScoringBowling.genruntimeconfig.cache
